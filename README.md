@@ -99,5 +99,6 @@ This project is great for beginners learning:
 
 ✨ Have fun playing and improving the game!
 <img width="445" height="325" alt="Screenshot 2026-04-01 142933" src="https://github.com/user-attachments/assets/ddd1a292-76f9-41f8-ad02-1f05abdabf62" />
-<img width="433" height="481" alt="Screenshot 2026-04-01 134423" src="https://github.com/user-attachments/assets/ce9f31aa-c83a-4cb6-a152-103b1cafc4f5" />
-<img width="436" height="482" alt="Screenshot 2026-04-01 134144" src="https://github.com/user-attachments/assets/678018f7-71e3-4df7-8aa0-bd02a11da830" />
+<img width="443" height="328" alt="Screenshot 2026-04-01 144748" src="https://github.com/user-attachments/assets/e6c01b3c-89de-4f12-b8cb-c9ee8fa7f19e" />
+<img width="448" height="325" alt="Screenshot 2026-04-01 144715" src="https://github.com/user-attachments/assets/461b7169-8db1-47e3-8385-c651cf582d41" />
+
